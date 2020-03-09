@@ -97,6 +97,14 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see the app.
 
 Optionally you can run the linter and tests: `npm run linter && npm test`
 
+### `ESlint`
+
+![ESlint](docs/linter.png)
+
+### `Jest`
+
+![Jest](docs/jest.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
