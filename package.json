@@ -1,6 +1,7 @@
 {
   "name": "owly-bookstore",
-  "version": "0.1.0",
+  "description": "A fully-functional, but also beautiful and user-friendly bookstore app",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -32,5 +33,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-Laguan/Owly-Bookstore.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "js",
+    "app",
+    "eslint",
+    "ES6",
+    "Test",
+    "Jest",
+    "bookstore"
+  ],
+  "author": "Israel Laguan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Israel-Laguan/Owly-Bookstore/issues"
   }
 }

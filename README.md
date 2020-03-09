@@ -1,7 +1,101 @@
-# Owly-Bookstore
-Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of an application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions
+<!-- PROJECT SHIELDS -->
+<!--
+*** "reference style" links are used for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues-open][issues-open-shield]][issues-open-url]
+[![Issues-closed][issues-closed-shield]][issues-closed-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.microverse.org/">
+    <img src="docs/microverse.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h1 align="center">
+	Owly-Bookstore
+  </h1>
+
+  <p align="center">
+    A fully-functional, fast, dynamic, responsive but also beautiful and user-friendly calculator app
+    <br />
+	  🖊️
+    <a href="https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md">Assignment</a>
+    🐞
+    <a href="https://github.com/Israel-Laguan/Owly-Bookstore/issues">Report a Bug</a>
+    🙋‍♂️
+    <a href="https://github.com/Israel-Laguan/Owly-Bookstore/issues">Request Feature</a>
+  </p>
+</p>
+
+# Specifications
+
+## The Project
+
+Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of an application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions and therefore you decided to build it with React & Redux.
+
+- Linters
+- React
+- React-DOM
+- React-Create-App
+- Redux
+- ES6 syntax
+- Export/import ES6+ notation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Features
+
+- Basic `create-react-app` structure
+- CSS Modules
+- Sets `stickler` on the repo
+- Sets `eslint` rules
+- Tests made with [`ESLint`](https://eslint.org/)
+- Unit Testing with [`Jest`](https://jestjs.io/)
+- Add `jest` and `eslint` to be callable with `npm`
+
+# Built With
+
+- `create-react-app`
+- `CSS Modules` and `flex` from **CSS3**
+- `ESLint`
+- `npm`
+- `vscode` with _ESLint_ extension
+- Linux/GNU
+- Love and Passion for code
+
+# Getting Started
+
+Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
+
+## Prerequisites
+
+- `npm` 6.13 +
+- `node` 11.15 +
+- A Text Editor like VSCode
+- A browser like Firefox or Chrome
+
+## Quick Start
+
+```
+git clone https://github.com/Israel-Laguan/Owly-Bookstore.git
+cd Owly-Bookstore
+npm i && npm start
+```
+
+Then open [http://localhost:3000/](http://localhost:3000/) to see the app.
+
+## Run tests
+
+Optionally you can run the linter and tests: `npm run linter && npm test`
 
 ## Available Scripts
 
@@ -30,18 +124,46 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Author
+
+👨 [Israel Laguan](https://github.com/Israel-Laguan)
+
+# 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/Israel-Laguan/Owly-Bookstore/issues).
+
+# 🤗 Show your support
+
+Give a ⭐️ if you like this project!
+
+# 🏅 Acknowledgements
+
+- [Microverse](https://www.microverse.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Readme header author](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+
+# 📝 License
+
+This project is licensed under the [MIT](LICENSE)\
+Feel free to fork this project and improve it
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/Owly-Bookstore?style=plastic
+[contributors-url]: https://github.com/Israel-Laguan/Owly-Bookstore/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/Owly-Bookstore?style=plastic
+[forks-url]: https://github.com/Israel-Laguan/Owly-Bookstore/network/members
+[stars-shield]: https://img.shields.io/github/stars/Israel-Laguan/Owly-Bookstore?style=plastic
+[stars-url]: https://github.com/Israel-Laguan/Owly-Bookstore/stargazers
+[issues-open-shield]: https://img.shields.io/github/issues/Israel-Laguan/Owly-Bookstore?style=plastic
+[issues-closed-url]: https://github.com/Israel-Laguan/Owly-Bookstore/issues
+[issues-closed-shield]: https://img.shields.io/github/issues-closed/Israel-Laguan/Owly-Bookstore?style=plastic
+[issues-open-url]: https://github.com/Israel-Laguan/Owly-Bookstore/issues
