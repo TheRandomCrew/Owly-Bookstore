@@ -8,11 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit
+          Wait for
           {' '}
-          <code>src/App.js</code>
+          <code>Owly Bookstore&apos;s App</code>
           {' '}
-          and save to reload.
+          soon
         </p>
         <a
           className="App-link"
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Made with React!
         </a>
       </header>
     </div>
