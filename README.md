@@ -36,6 +36,11 @@
   </p>
 </p>
 
+
+# Live Demo
+
+[![App](docs/app.png)](https://owly-bookstore.herokuapp.com/)
+
 # Specifications
 
 ## The Project
