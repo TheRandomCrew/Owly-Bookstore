@@ -7,11 +7,12 @@
 [![Framework][badge-framework]][framework-url]
 [![contributions welcome][contributions-welcome]][issues-url]
 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://">
-	  <img src="https://img.icons8.com/color/96/000000/full-image.png" alt="Logo"/>
+  <a href="https://www.microverse.org/">
+    <img src="docs/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">
@@ -19,9 +20,10 @@
   </h1>
 
   <p align="center">
+    A fully-functional, fast, dynamic, responsive but also beautiful and user-friendly calculator app
     <br />
 	  🖊️
-    <a href="https://">Read the article</a>
+    <a href="https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md">Assignment</a>
     🐞
     <a href="https://github.com/Israel-Laguan/Owly-Bookstore/issues">Report a Bug</a>
     🙋‍♂️
@@ -36,9 +38,111 @@
 6. [Contributing](#contributing)
 7. [Show your support](#show-your-support)
 8. [License](#license)
+# Live Demo
 
-# Owly-Bookstore
-Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of an application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions
+[![App](docs/app.png)](https://owly-bookstore.herokuapp.com/)
+
+# Specifications
+
+## The Project
+
+Magic-books Inc. is a fictional company based in Germany. They have requested your help to build the front-end of an application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions and therefore you decided to build it with React & Redux.
+
+- Linters
+- React
+- React-DOM
+- React-Create-App
+- Redux
+- ES6 syntax
+- Export/import ES6+ notation
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Features
+
+- Basic `create-react-app` structure
+- CSS Modules
+- Sets `stickler` on the repo
+- Sets `eslint` rules
+- Tests made with [`ESLint`](https://eslint.org/)
+- Unit Testing with [`Jest`](https://jestjs.io/)
+- Add `jest` and `eslint` to be callable with `npm`
+
+# Built With
+
+- `create-react-app`
+- `CSS Modules` and `flex` from **CSS3**
+- `ESLint`
+- `npm`
+- `vscode` with _ESLint_ extension
+- Linux/GNU
+- Love and Passion for code
+
+# Getting Started
+
+Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
+
+## Prerequisites
+
+- `npm` 6.13 +
+- `node` 11.15 +
+- A Text Editor like VSCode
+- A browser like Firefox or Chrome
+
+## Quick Start
+
+```
+git clone https://github.com/Israel-Laguan/Owly-Bookstore.git
+cd Owly-Bookstore
+npm i && npm start
+```
+
+Then open [http://localhost:3000/](http://localhost:3000/) to see the app.
+
+## Run tests
+
+Optionally you can run the linter and tests: `npm run linter && npm test`
+
+### `ESlint`
+
+![ESlint](docs/linter.png)
+
+### `Jest`
+
+![Jest](docs/jest.png)
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Author
 
