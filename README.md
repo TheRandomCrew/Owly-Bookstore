@@ -20,10 +20,10 @@
   </h1>
 
   <p align="center">
-    A fully-functional, fast, dynamic, responsive but also beautiful and user-friendly calculator app
+    A fully-functional, fast, dynamic, responsive but also beautiful and user-friendly bookstore management tool
     <br />
 	  🖊️
-    <a href="https://github.com/microverseinc/project-redux-bookstore/blob/master/README.md">Assignment</a>
+    <a href="https://github.com/microverseinc/project-redux-bookstore">Assignment</a>
     🐞
     <a href="https://github.com/Israel-Laguan/Owly-Bookstore/issues">Report a Bug</a>
     🙋‍♂️
@@ -33,14 +33,18 @@
 
 ## Table of Contents
 
-1. [Owly-Bookstore](#owly-bookstore)
+1. [Specifications](#specifications)
+2. [Features](#features)
+3. [Built With](#built-with)
+4. [Getting Started](#getting-started)
 5. [Author](#author)
 6. [Contributing](#contributing)
 7. [Show your support](#show-your-support)
 8. [License](#license)
-# Live Demo
 
-[![App](docs/app.png)](https://owly-bookstore.herokuapp.com/)
+# Live Demo [here][demo]
+
+[![App](docs/app.png)][demo]
 
 # Specifications
 
@@ -222,7 +226,8 @@ Feel free to fork this project and improve it
 [issues-open-shield]: https://img.shields.io/github/issues/Israel-Laguan/Owly-Bookstore?style=for-the-badge
 [issues-url]: https://github.com/Israel-Laguan/Owly-Bookstore/issues
 [issues-closed-shield]: https://img.shields.io/github/issues-closed/Israel-Laguan/Owly-Bookstore?style=for-the-badge
-[badge-framework]: https://img.shields.io/badge/framework-here-9cf?style=for-the-badge
-[framework-url]: https://google.com
+[badge-framework]: https://img.shields.io/badge/framework-react-9cf?style=for-the-badge
+[framework-url]: https://reactjs.org/
 [contributions-welcome]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [badge-license]: https://img.shields.io/:license-mit-blue.svg?style=for-the-badge
+[demo]: https://owly-bookstore.herokuapp.com/
